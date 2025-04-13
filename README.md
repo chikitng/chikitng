@@ -25,6 +25,8 @@
 
 ## 📈 GitHub Stats
 ![Chi Kit's GitHub stats](https://github-readme-stats.vercel.app/api?username=chikitng&show_icons=true&theme=default)
+
+## 🧠 Top Languages
 ![Chi Kit's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chikitng&layout=compact)
 
 
