@@ -17,9 +17,9 @@
 
   - ⚛️ **Simulation**: [OpenMM](https://openmm.org/)
 
-  - 🔬 **Visualisation**: [PyMOL](https://www.pymol.org/)
+  - 🔬 **Visualisation**: [PyMOL](https://www.pymol.org/2/)
 
-- 🤖 **Machine Learning**: PyTorch, TensorFlow, Scikit-learn, XGBoost
+- 🤖 **Machine Learning**: PyTorch, TensorFlow, Scikit-learn
 
 - 🛠️ **Dev Tools**: Jupyter Notebook, Google Colab, Shell/Terminal, Git, PyCharm, VS Code, IntelliJ
 <!--
