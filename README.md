@@ -8,7 +8,7 @@
 ## 🔧 Tech Stack
 - 💻 Languages: Python, Java
 - 🔬 Tools & Frameworks:
-  - ### 🧪 Molecular Modeling & Cheminformatics:
+  - 🧪 Molecular Modeling & Cheminformatics:
     - RDKit, Open Babel, CReM, ChemDraw
 <!--
 **chikitng/chikitng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
