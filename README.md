@@ -9,15 +9,15 @@
 - 💻 Languages: Python, Java
 
 - 🔬 **Tools & Frameworks**:
-  - 🧪 **Molecular Modeling & Cheminformatics**: [RDKit](https://www.rdkit.org/), [Open Babel](https://openbabel.org/), CReM, [OpenFF](https://www.openforcefield.org/)
+  - 🧪 **Molecular Modeling & Cheminformatics**: [RDKit](https://www.rdkit.org/), [Open Babel](https://openbabel.org/), [CReM](https://github.com/DrrDom/crem), [OpenFF](https://www.openforcefield.org/)
 
-  - ✍️ **Molecular Structure Drawing**: [ChemDraw](https://www.cambridgesoft.com/)
+  - ✍️ **Molecular Structure Drawing**: [ChemDraw](https://revvitysignals.com/products/research/chemdraw)
 
-  - 🔍 **Docking & Scoring**: [Gnina](https://github.com/gnina/gnina), FEGrow
+  - 🔍 **Docking & Scoring**: [FEgrow](https://github.com/cole-group/FEgrow), [Gnina](https://github.com/gnina/gnina),
 
   - ⚛️ **Simulation**: [OpenMM](https://openmm.org/)
 
-  - 🔬 **Visualisation**: [PyMOL](https://pymol.org/2/)
+  - 🔬 **Visualisation**: [PyMOL](https://www.pymol.org/)
 
 - 🤖 **Machine Learning**: PyTorch, TensorFlow, Scikit-learn, XGBoost
 
