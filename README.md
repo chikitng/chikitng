@@ -9,7 +9,7 @@
 - 💻 Languages: Python, Java
 
 - 🔬 **Tools & Frameworks**:
-  - 🧪 **Molecular Modeling & Cheminformatics**: RDKit, Open Babel, CReM, [OpenFF](https://www.openforcefield.org/)
+  - 🧪 **Molecular Modeling & Cheminformatics**: [RDKit](https://www.rdkit.org/), [Open Babel](https://openbabel.org/), CReM, [OpenFF](https://www.openforcefield.org/)
 
   - ✍️ **Molecular Structure Drawing**: [ChemDraw](https://www.cambridgesoft.com/)
 
