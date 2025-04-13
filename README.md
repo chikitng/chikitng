@@ -30,7 +30,7 @@
 > Exploring fragment-based AI-driven design for PabB inhibitors.
 
 ## 📫 How to reach me:
-- Email: c.k.ng2@newcastle.ac.uk *e*
+- Email: c.k.ng2@newcastle.ac.uk
 <!--
 **chikitng/chikitng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
