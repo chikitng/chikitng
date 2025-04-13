@@ -13,7 +13,7 @@
 
   - ✍️ **Molecular Structure Drawing**: [ChemDraw](https://revvitysignals.com/products/research/chemdraw)
 
-  - 🔍 **Docking & Scoring**: [FEgrow](https://github.com/cole-group/FEgrow), [Gnina](https://github.com/gnina/gnina),
+  - 🔍 **Docking & Scoring**: [FEgrow](https://github.com/cole-group/FEgrow), [Gnina](https://github.com/gnina/gnina)
 
   - ⚛️ **Simulation**: [OpenMM](https://openmm.org/)
 
