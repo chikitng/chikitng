@@ -1,5 +1,9 @@
 ## Hi there 👋 I'm Chi Kit Ng
 
+🎓 Ph.D. Student in Computer Science at Newcastle University  
+🧑‍🏫 Supervised by [Dr. Daniel Cole](https://blogs.ncl.ac.uk/danielcole/about-us/)  
+💻 Researching AI for Drug Design  
+📍 Based in Newcastle, UK
 <!--
 **chikitng/chikitng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
