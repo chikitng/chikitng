@@ -24,7 +24,7 @@
 - 🛠️ **Dev Tools**: Jupyter Notebook, Google Colab, Shell/Terminal, Git, PyCharm, VS Code, IntelliJ
 
 ## 📈 GitHub Stats
-![Chi Kit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckng&show_icons=true&theme=default)
+![Chi Kit's GitHub stats](https://github-readme-stats.vercel.app/api?username=chikitng&show_icons=true&theme=default)
 
 ## 🧪 Current Project
 > Exploring fragment-based AI-driven design for PabB inhibitors.
