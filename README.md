@@ -1,8 +1,11 @@
 ## Hi there 👋 I'm Chi Kit Ng
 
-🎓 Ph.D. Student in Computer Science at Newcastle University  
-🧑‍🏫 Supervised by [Dr. Daniel Cole](https://blogs.ncl.ac.uk/danielcole/about-us/)  
-💻💊 Researching Computer-Aided Drug Design (CADD)  
+🎓 Ph.D. Student in Computer Science at Newcastle University
+
+🧑‍🏫 Supervised by [Dr. Daniel Cole](https://blogs.ncl.ac.uk/danielcole/about-us/)
+
+💻💊 Researching Computer-Aided Drug Design (CADD)
+
 📍 Based in Newcastle, UK
 
 ## 🔧 Tech Stack
