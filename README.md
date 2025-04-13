@@ -19,9 +19,12 @@
 
   - 🔬 **Visualisation**: [PyMOL](https://www.pymol.org/2/)
 
-- 🤖 **Machine Learning**: PyTorch, TensorFlow, Scikit-learn
+- 🧠 **Machine Learning**: PyTorch, TensorFlow, Scikit-learn
 
 - 🛠️ **Dev Tools**: Jupyter Notebook, Google Colab, Shell/Terminal, Git, PyCharm, VS Code, IntelliJ
+
+## 📈 GitHub Stats
+![Chi Kit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckng&show_icons=true&theme=default)
 <!--
 **chikitng/chikitng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
