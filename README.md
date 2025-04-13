@@ -7,11 +7,18 @@
 
 ## 🔧 Tech Stack
 - 💻 Languages: Python, Java
-- 🔬 Tools & Frameworks:
-  - 🧪 Molecular Modeling & Cheminformatics:
-    - RDKit, Open Babel, CReM, ChemDraw
-  - 🔍 Docking & Scoring:
-    - GNINA, FEgrow
+- 🔬 **Tools & Frameworks**:
+  - 🧪 **Molecular Modeling & Cheminformatics**: RDKit, Open Babel, CReM, [OpenFF](https://www.openforcefield.org/)
+  
+  - ✍️ **Molecular Structure Drawing**: [ChemDraw](https://www.cambridgesoft.com/)
+
+  - 🔍 **Docking & Scoring**: [Gnina](https://github.com/gnina/gnina), FEGrow
+
+  - ⚛️ **Simulation**: [OpenMM](https://openmm.org/)
+
+  - 🤖 **Machine Learning**: PyTorch, TensorFlow, XGBoost, Scikit-learn
+
+  - 🛠️ **Dev Tools**: Git, Docker, PyCharm, IntelliJ, Jupyter Notebook, VS Code
 <!--
 **chikitng/chikitng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
